@@ -46,10 +46,10 @@
     "Motions": {
       "Idle": [
         {
-          "File": "motion/haru_g_idle.motion3.json", "FadeIn": 500
+          "File": "motion/haru_g_idle.motion3.json", "FadeIn": 2000, "FadeOut": 2000
         },
         {
-          "File": "motion/haru_g_m07.motion3.json", "FadeIn": 200
+          "File": "motion/haru_g_m07.motion3.json", "FadeIn": 2000, "FadeOut": 2000
         },
         {
           "File": "motion/haru_g_m15.motion3.json"
